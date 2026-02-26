@@ -4,7 +4,7 @@ A responsive React application that helps you split bills with friends and track
 
 ## 📸 Preview
 
-![App Preview](./Preview.png)
+![App Preview](./Preview.PNG)
 
 ---
 
